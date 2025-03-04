@@ -488,7 +488,7 @@ datasorter --input data.csv --output sorted_data.csv --column name --ascending
 ## 12. How can you succinctly convey the purpose and key features of a product?
 Succinctly conveying the purpose and key features of a product requires a focused and strategic approach.
 ### 1. Start with the Core Purpose (Elevator Pitch):
-- ***The "What" and "Why": Begin with a concise statement that answers two fundamental questions:
+- ***The "What" and "Why":*** Begin with a concise statement that answers two fundamental questions:
   - "What is this product?" (e.g., "A cloud-based project management tool.")
   - "Why does it exist?" (e.g., "To streamline team collaboration and improve project efficiency.")
 - ***The Problem-Solution Approach:*** Frame the purpose in terms of the problem it solves and the solution it provides. Example: "This app addresses the challenge of disorganized task management by offering a centralized platform for tracking progress."
@@ -501,16 +501,16 @@ Succinctly conveying the purpose and key features of a product requires a focuse
   - "Simplifies user authentication."
 - ***Prioritize Essential Features:*** Select the most critical features that differentiate your product and provide the most value. Avoid overwhelming the audience with a long list.
 ### 3. Employ Concise Language and Bullet Points:
-- ***Avoid Jargon: Use plain language that is easily understood by your target audience.
-- ***Use Bullet Points: Present key features in a bulleted list for easy scanning and comprehension.
-- ***Keep Sentences Short: Use short, direct sentences to convey information efficiently.
+- ***Avoid Jargon:*** Use plain language that is easily understood by your target audience.
+- ***Use Bullet Points***: Present key features in a bulleted list for easy scanning and comprehension.
+- ***Keep Sentences Short:*** Use short, direct sentences to convey information efficiently.
 
 ### 4. Use Visual Aids (If Applicable):
-- ***Screenshots or Diagrams: Visuals can quickly convey the look and feel of a product and highlight its key features.   
-- ***Short Videos or GIFs: Demonstrations can be more effective than text in explaining complex functionalities.
+- ***Screenshots or Diagrams:*** Visuals can quickly convey the look and feel of a product and highlight its key features.   
+- ***Short Videos or GIFs:*** Demonstrations can be more effective than text in explaining complex functionalities.
 
 ### 5. Follow the "Rule of Three" (Optional):
-    If possible, try to condense the key features into three main points. This can make the information more memorable.
+- If possible, try to condense the key features into three main points. This can make the information more memorable.
 ### Example:
 "***Product Name:*** CloudSync
 ***Purpose:*** CloudSync is a secure cloud-based file storage and synchronization service designed to ensure your data is always accessible and protected.
