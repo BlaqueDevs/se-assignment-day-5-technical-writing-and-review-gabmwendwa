@@ -31,18 +31,18 @@ A well-crafted introduction in a README file is crucial for quickly informing us
 - If you must use technical terms, provide brief explanations. 
 ### Here's a template you can adapt:
 ```
-    # [Product Name]
-    
-    [Product Name] is a [type of tool/library/application] that [briefly describes its core functionality]. It solves the problem of [problem it solves] by [key features].
-    
-    **Quick Start:**
-    
-    ```bash
-    [Example command or code snippet]
+# [Product Name]
+
+[Product Name] is a [type of tool/library/application] that [briefly describes its core functionality]. It solves the problem of [problem it solves] by [key features].
+
+**Quick Start:**
+
+```bash
+[Example command or code snippet]
 ```
 
 ### Example:
-
+```
 # DataSorter
 
 DataSorter is a command-line tool that sorts data from CSV files. It solves the problem of manually organizing large datasets by providing fast and efficient sorting capabilities.
@@ -51,12 +51,14 @@ DataSorter is a command-line tool that sorts data from CSV files. It solves the 
 
 ```bash
 datasorter --input data.csv --output sorted_data.csv --column name --ascending
+```
 
-
+```
 **Key Principles:**
 
 * **Keep it short:** Users should be able to grasp the essential information quickly.
 * **Focus on the benefits:** Emphasize what your product can do for the user.
 * **Make it accessible:** Use clear and concise language.
 * **Provide a clear path to action:** Guide users on how to get started.
+```
 ## 12. How can you succinctly convey the purpose and key features of a product?
